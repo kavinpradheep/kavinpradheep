@@ -69,15 +69,15 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:kavinpradeep@email.com">
+  <a href="mailto:kavinpradheep8@email.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="www.linkedin.com/in/kavin-pradheep-s-t" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <a href="https://leetcode.com/u/kavinpradheepst/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
   <a href="https://github.com/kavinpradheep" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
