@@ -43,9 +43,6 @@
 ### 🏫 [EVENTEASE](https://github.com/kavinpradheep/EVENTEASE)
 > A college event portal that streamlines announcements, hall bookings, and newsletter updates.
 
-### 📱 [Your Next Project](#)
-> (Describe your upcoming idea or placeholder for future projects!)
-
 ---
 
 ## 📊 GitHub Stats
