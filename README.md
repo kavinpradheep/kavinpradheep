@@ -64,7 +64,7 @@
 ## 🧩 GitHub Contributions Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kavinpradheep&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinpradheep&theme=tokyo-night" />
 </p>
 
 ---
