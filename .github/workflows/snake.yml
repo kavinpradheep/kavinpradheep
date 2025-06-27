@@ -2,11 +2,11 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:       # Allow manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write          # ✅ Required to push to output branch
+  contents: write  # This is required to push the SVGs
 
 jobs:
   generate:
