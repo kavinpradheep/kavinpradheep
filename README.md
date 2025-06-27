@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavin Pradeep</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | Mobile App Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer | 📱 Mobile App Enthusiast | 📚 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
@@ -38,13 +38,13 @@
 ## 🚀 Featured Projects
 
 ### 🔖 [WebsiteSaverApp](https://github.com/kavinpradheep/WebsiteSaverApp)
-> 📱 A React Native app to save websites, open them in-app via WebView, and manage them with an intuitive UI.
+📱 A React Native app to save websites, open them in-app via WebView, and manage them with an intuitive UI.
 
 ### 🏫 [EVENTEASE](https://github.com/kavinpradheep/EVENTEASE)
-> 🎓 A college event portal that streamlines announcements, hall bookings, and newsletter updates.
+🎓 A college event portal that streamlines announcements, hall bookings, and newsletter updates.
 
 ### 🧠 [QuizCraft – Figma Design](https://www.figma.com/design/jJdcxkUbm5AtgyBcTWCdi5/MernStack?node-id=0-1&t=pPgSebDlx8ykZ2nL-1)
-> 🎮 A Figma-based UI/UX design for a MERN-style quiz platform. Admins can create contests, set timers, and track scores on a live leaderboard.  
+🎮 A Figma-based UI/UX design for a MERN-style quiz platform. Admins can create contests, set timers, and track scores on a live leaderboard.  
 
 ---
 
@@ -65,7 +65,6 @@
 
 <img src="https://raw.githubusercontent.com/kavinpradheep/kavinpradheep/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" />
 <img src="https://raw.githubusercontent.com/kavinpradheep/kavinpradheep/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" />
-
 
 ---
 
@@ -90,8 +89,8 @@
 
 ## 💡 Quotes That Inspire Me
 
-> "The best way to predict the future is to invent it." – Alan Kay  
-> "Strive not to be a success, but rather to be of value." – Albert Einstein
+> “The best way to predict the future is to invent it.” – Alan Kay  
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
 
 ---
 
