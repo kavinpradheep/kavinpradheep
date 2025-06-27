@@ -2,23 +2,26 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:       # Allow manual trigger
 
 permissions:
-  contents: write   # ✅ This line allows pushing to branches like 'output'
+  contents: write          # ✅ Required to push to output branch
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Snake SVGs (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kavinpradheep
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to GitHub Pages branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
