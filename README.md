@@ -45,7 +45,6 @@
 
 ### 🧠 [QuizCraft – Figma Design](https://www.figma.com/design/jJdcxkUbm5AtgyBcTWCdi5/MernStack?node-id=0-1&t=pPgSebDlx8ykZ2nL-1)
 > 🎮 A Figma-based UI/UX design for a MERN-style quiz platform. Admins can create contests, set timers, and track scores on a live leaderboard.  
-> 📌 [GitHub README Template for QuizCraft](https://github.com/kavinpradheep/QuizCraft) *(Add this repo soon if public)*
 
 ---
 
