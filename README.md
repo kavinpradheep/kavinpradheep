@@ -61,10 +61,10 @@
 
 ---
 
-## 🧩 GitHub Activity Heatmap
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinpradheep&theme=tokyo-night" />
+  <img src="https://raw.githubusercontent.com/kavinpradheep/kavinpradheep/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
