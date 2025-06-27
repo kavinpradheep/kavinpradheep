@@ -3,7 +3,7 @@ name: Generate Snake Game
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
   generate:
