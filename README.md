@@ -64,8 +64,8 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kavinpradheep/kavinpradheep/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation in light mode" />
-  <img src="https://raw.githubusercontent.com/kavinpradheep/kavinpradheep/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation in dark mode" />
+  <img src="https://raw.githubusercontent.com/kavinpradheep/kavinpradheep/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/kavinpradheep/kavinpradheep/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 ---
