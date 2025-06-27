@@ -9,12 +9,12 @@
 
 ## 📌 About Me
 
-- 🔭 Currently working on: **WebsiteSaverApp** — a React Native app to save and view websites internally.
-- 🌱 Learning: **React Native**, **Firebase**, **MongoDB**, **DevOps**, and **AI integrations**.
-- 👯 I’m looking to collaborate on: Open-source projects that make life easier or more efficient.
-- 💬 Ask me about: Full Stack Development, React, Node.js, MongoDB, Firebase.
-- 🧠 Future Goal: Become a skilled Mobile + Web App Architect.
-- ⚡ Fun fact: I started coding because I wanted to build my own app — and now I’m building many!
+- 🔭 Currently building: **WebsiteSaverApp** – a React Native app to save and manage websites.
+- ✨ Designed: **QuizCraft** – a real-time online quiz platform (UI/UX in Figma).
+- 🌱 Learning: **React Native**, **Firebase**, **MongoDB**, **DevOps**, **AI integrations**.
+- 👯 Looking to collaborate on: Open-source projects that solve real-world problems.
+- 🧠 Goal: Become a Full Stack + Mobile App Architect.
+- ⚡ Fun fact: My first app idea turned into a learning journey I never stopped.
 
 ---
 
@@ -38,10 +38,14 @@
 ## 🚀 Featured Projects
 
 ### 🔖 [WebsiteSaverApp](https://github.com/kavinpradheep/WebsiteSaverApp)
-> Save websites, open them in-app via WebView, and manage them with an intuitive UI.
+> 📱 A React Native app to save websites, open them in-app via WebView, and manage them with an intuitive UI.
 
 ### 🏫 [EVENTEASE](https://github.com/kavinpradheep/EVENTEASE)
-> A college event portal that streamlines announcements, hall bookings, and newsletter updates.
+> 🎓 A college event portal that streamlines announcements, hall bookings, and newsletter updates.
+
+### 🧠 [QuizCraft – Figma Design](https://www.figma.com/design/jJdcxkUbm5AtgyBcTWCdi5/MernStack?node-id=0-1&t=pPgSebDlx8ykZ2nL-1)
+> 🎮 A Figma-based UI/UX design for a MERN-style quiz platform. Admins can create contests, set timers, and track scores on a live leaderboard.  
+> 📌 [GitHub README Template for QuizCraft](https://github.com/kavinpradheep/QuizCraft) *(Add this repo soon if public)*
 
 ---
 
@@ -58,7 +62,7 @@
 
 ---
 
-## 🧩 GitHub Contributions Heatmap
+## 🧩 GitHub Activity Heatmap
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinpradheep&theme=tokyo-night" />
@@ -72,12 +76,12 @@
   <a href="mailto:kavinpradheep8@email.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/kavin-pradheep-s-t" target="_blank">
+  <a href="https://www.linkedin.com/in/kavin-pradheep-s-t" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/kavinpradheepst/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <a href="https://github.com/kavinpradheep" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
