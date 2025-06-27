@@ -18,6 +18,25 @@
 
 ---
 
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:kavinpradheep8@email.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kavin-pradheep-s-t" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/kavinpradheepst/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/kavinpradheep" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
@@ -68,24 +87,6 @@
 
 ---
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:kavinpradheep8@email.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kavin-pradheep-s-t" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/kavinpradheepst/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/kavinpradheep" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 💡 Quotes That Inspire Me
 
